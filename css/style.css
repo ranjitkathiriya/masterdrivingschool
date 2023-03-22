@@ -138,7 +138,7 @@ a:hover {
 	color: #002b5e;
 }
 a:focus {
-	
+
 }
 a img {
 	-webkit-transition: .25s;
@@ -823,8 +823,8 @@ label + .form-icon {
    08. Header
    ========================================================================== */
 .header {
-	background: #ffdd00;
-	color: #222;
+	background: #303F9F;
+	color: #fff;
 }
 .header .top {
 	background: #ffdd00;
@@ -906,8 +906,8 @@ label + .form-icon {
 	text-decoration: none;
 }
 .main-nav ul>li.active a {
-	background: #ffdd00;
-	color: #222;
+	background: #303F9F;
+	color: #fff;
 }
 .main-nav ul>li.active a:hover {
 	opacity: 1;
