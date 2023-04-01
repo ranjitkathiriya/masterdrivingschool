@@ -65,7 +65,7 @@
 	font-weight: 300;
 }
 body {
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 24px;
 	color: #777;
 	font-family: 'Montserrat', sans-serif;
@@ -1050,12 +1050,12 @@ label + .form-icon {
 	float: right;
 	font-weight: 400;
 	text-transform: uppercase;
-	color: #222;
+	color: #fff;
 	line-height: 120px;
 	text-decoration: none;
 }
 .responsive-menu-open:hover {
-	color: #222;
+	color: #fff;
 	opacity: .75;
 	text-decoration: none;
 }
@@ -1459,12 +1459,18 @@ div:hover>.small-round-icon {
 	position: relative;
 	margin-top: 96px;
 }
+
+.pricing-table.pink {
+	background: #EC407A;
+	color: #fff;
+}
+
 .pricing-table.blue {
 	background: #002b5e;
 	color: #fff;
 }
-.pricing-table.yellow {
-	background: #ffdd00;
+.pricing-table.blue {
+	background: #42A5F5;
 	color: #222;
 }
 .pricing-table.dark {
@@ -1488,6 +1494,12 @@ div:hover>.small-round-icon {
 	left: 0;
 	right: 0;
 }
+
+.pricing-table.pink .pricing-table-price {
+	background: #002b5e;
+	color: #fff;
+}
+
 .pricing-table.blue .pricing-table-price {
 	background: #002b5e;
 	color: #fff;
@@ -2190,7 +2202,7 @@ div:hover>.small-round-icon {
 	float: left;
 }
 .latest-post div {
-	margin-left: 96px;
+	margin-left: 6px;
 	padding-top: 6px;
 }
 .latest-post h6 {
