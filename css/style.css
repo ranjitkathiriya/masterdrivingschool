@@ -863,7 +863,7 @@ label + .form-icon {
 }
 .header .logo {
 	float: left;
-	height: 120px;
+	height: 136px;
 	padding: 34px 0;
 }
 .header .logo img {
@@ -1473,6 +1473,17 @@ div:hover>.small-round-icon {
 	background: #42A5F5;
 	color: #222;
 }
+
+.pricing-table.green {
+	background: #9CCC65;
+	color: #222;
+}
+
+.pricing-table.orange {
+	background: #FFA726;
+	color: #222;
+}
+
 .pricing-table.dark {
 	background: #161616;
 	color: #fff;
@@ -1496,6 +1507,16 @@ div:hover>.small-round-icon {
 }
 
 .pricing-table.pink .pricing-table-price {
+	background: #002b5e;
+	color: #fff;
+}
+
+.pricing-table.orange .pricing-table-price {
+	background: #002b5e;
+	color: #fff;
+}
+
+.pricing-table.green .pricing-table-price {
 	background: #002b5e;
 	color: #fff;
 }
