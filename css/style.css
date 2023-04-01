@@ -823,7 +823,7 @@ label + .form-icon {
    08. Header
    ========================================================================== */
 .header {
-	background: #303F9F;
+	background: #002b5e;
 	color: #fff;
 }
 .header .top {
@@ -906,7 +906,7 @@ label + .form-icon {
 	text-decoration: none;
 }
 .main-nav ul>li.active a {
-	background: #303F9F;
+	background: #002b5e;
 	color: #fff;
 }
 .main-nav ul>li.active a:hover {
@@ -1145,8 +1145,8 @@ label + .form-icon {
 	height: 40px;
 	line-height: 36px;
 	font-size: 18px;
-	border: 2px solid #002b5e;
-	color: #002b5e;
+	border: 2px solid #ffffff;
+	color: #ffffff;
 	border-radius: 100%;
 	text-align: center;
 	vertical-align: middle;
@@ -1737,7 +1737,7 @@ div:hover>.small-round-icon {
 	height: 560px;
 }
 .contacts {
-	width: 40%;
+	width: 50%;
 	margin: 0 auto;
 	background: #fff;
 	padding: 36px;
@@ -2087,7 +2087,7 @@ div:hover>.small-round-icon {
 	opacity: 0;
 }
 .gallery>.image:hover .popup-link, .gallery>.image:hover .full-link {
-	opacity: 1;
+	opacity: 5;
 }
 .gallery>.image .popup-link {
 	top: 30%;
@@ -2266,8 +2266,8 @@ div:hover>.small-round-icon {
    ========================================================================== */
 .social-icon {
 	display: inline-block;
-	width: 30px;
-	height: 30px;
+	width: 40px;
+	height: 40px;
 	line-height: 30px;
 	margin: 14px 0;
 	margin-left: 6px;
@@ -2282,8 +2282,10 @@ div:hover>.small-round-icon {
 	width: 100%;
 	height: 100%;
 	border: 1px solid #fff;
-	font-size: 14px;
+	font-size: 24px;
 	color: #fff;
+	padding-right: 5px;
+    padding-top: 2px;
 }
 .social-icon a:hover {
 	background: #fff;
@@ -2332,7 +2334,7 @@ div:hover>.small-round-icon {
 	margin-left: 10px;
 }
 .instructor .social-icon {
-	margin-right: 4px;
+	margin-right: 8px;
 	margin-left: 4px;
 }
 .simple-social-icons a {
