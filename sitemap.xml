@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://masterdrivingschool.ie/</loc>
+  <lastmod>2023-04-05T11:37:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://masterdrivingschool.ie/index.html</loc>
+  <lastmod>2023-04-05T11:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://masterdrivingschool.ie/about-us.html</loc>
+  <lastmod>2023-04-05T11:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://masterdrivingschool.ie/gallery.html</loc>
+  <lastmod>2023-04-05T11:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://masterdrivingschool.ie/contact-page.html</loc>
+  <lastmod>2023-04-05T11:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://masterdrivingschool.ie/pdf/RSA_Test_QnA.pdf</loc>
+  <lastmod>2023-04-05T11:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://masterdrivingschool.ie/pdf/MDS_Handsignals.pdf</loc>
+  <lastmod>2023-04-05T11:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://masterdrivingschool.ie/pdf/Preparing_your_Car_for_Driving_Test.pdf</loc>
+  <lastmod>2023-04-05T11:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
